@@ -1,0 +1,7 @@
+alias ls='ls -h --color=auto'
+alias src='source'
+alias del='rm -rfi'
+alias rm='rm -iv'
+alias cp='cp -vi'
+alias mkdir='mkdir -pv'
+alias cd..='cd ..'
