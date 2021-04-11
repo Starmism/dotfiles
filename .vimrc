@@ -3,13 +3,6 @@
 " \ V / | '  \| '_/ _|
 "  \_/|_|_|_|_|_| \__|
 "
-call plug#begin('~/.vim/plugged')
-
-Plug 'dylanaraps/wal'
-
-colorscheme wal
-
-call plug#end()
 
 " Enable syntax highlighting
 syntax enable
